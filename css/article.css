@@ -1,0 +1,246 @@
+a{
+	text-decoration: none;
+}
+
+
+body{
+	height: 100vh;
+	background: #0a0514;
+}
+
+
+.me__fon{
+	width: auto;
+	height: 200px;
+	margin-top: 70px;
+	align-items: center;
+	
+}
+
+
+.text{
+	display: inline-flex;
+	justify-content: center;
+	font-family: 'Courier New';
+	font-weight: 700;
+	font-size: 60px;
+	line-height: 64px;
+	color: #9bffd6;
+	margin-top: 40px;
+	text-align: center;
+	margin-bottom: 25px;
+	background: linear-gradient(10deg, #a57dea 30%, #c898f8 40%, #2b2031);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.krivaya-01{
+	
+	margin-top: 50px;
+	width: auto;
+	flex: 0 0 66.666667%;
+	max-width: 66.666667%;
+}
+
+.skills_my{
+	display: inline-flex;
+	justify-content: center;
+	font-family: 'Courier New';
+	text-align: center;
+	font-size: 55px;
+	margin-top: 50px;
+	color: #ffffff;
+	
+	
+	
+	
+	
+}
+
+.list{
+	display: inline-flex;
+	justify-content: space-between;
+	margin-top: 50px;
+	color: #000000;
+	padding-right: 20px;
+
+}
+
+
+.list__item{
+	box-sizing: border-box;
+	justify-content: center;
+	padding-top: 15px;
+	position: relative;
+	width: 300px;
+	height: 60px;
+	border-radius: 25px;
+	margin: 30px;
+	color: #9cfea3;
+	text-align: center;
+	border: 5px solid ;
+	background: linear-gradient(50deg, #aa82fe 100%, #c697f8 10%, #dca8f4 18%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	font-family: 'Courier New';
+		flex: 0 0 25%;
+		max-width: 25%;
+}
+
+.krivaya-02{
+	text-align: center;
+	margin-top: 2px;
+	width:auto;
+	height: 311px;
+
+
+	
+}
+
+
+.me__way-txt{
+	box-sizing: border-box;
+	font-family: 'Courier New';
+	text-align: center;
+	font-size: 55px;
+	margin-top: 25px;
+	color: #ffffff;
+	
+	
+}
+
+.krivaya-03{
+	display: inline-flex;
+	justify-content: flex-end;
+	text-align: center;
+	margin-top: 50px;
+
+
+
+	
+}
+.krivaya-03-img{
+	height: 100%;
+	width: auto;
+	flex: 0 0 33.333333%;
+	max-width: 33.333333%;
+	
+
+
+}
+
+.krivaya-03-txt{
+	font-family: 'Courier New';
+	font-size: 35px;
+	line-height: 62px;
+	background: linear-gradient(35deg, #5674a9 15%, #7fa8db 20%, #acddfe);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	flex: 0 0 33.333333%;
+	max-width: 33.333333%;
+
+}
+
+
+
+.school__foto{
+	display: inline-flex;
+	justify-content: space-around;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	
+
+
+}
+
+
+.school__image{
+	/*box-sizing: border-box;*/
+	transform: rotate(-18deg);
+	width: 50px;
+	height: auto;
+	border: 15px solid #fff;
+	flex: 0 0 25%;
+	max-width: 25%;
+
+	
+	
+}
+
+.school__image-biblio {
+	box-sizing: border-box;
+	transform: rotate(13deg);
+	width:100px;
+	height: auto;
+	border: 15px solid #fff;
+}
+
+
+
+.krivaya-04{
+		display: inline-flex;
+		justify-content: center;
+		text-align: center;
+		
+	
+}
+
+..krivaya-04-img{
+	width: auto;
+}
+
+
+
+.footer__section{
+	margin-top: 45px;
+	text-align: center;
+}
+.footer__title{
+	box-sizing: border-box;
+	font-family: 'Courier New';
+	text-align: center;
+	font-size: 25px;
+	color: #ffffff;
+}
+
+.footer__item-1,.footer__item-2{
+	display: inline-flex;
+	padding: 15px;
+	height: 64px;
+	width: 64px;
+}
+
+.contact__number_link{
+	font-family: 'Courier New';
+	text-align: left;
+	font-size: 25px;
+	color: #ffffff;
+}
+
+@media screen and (min-width:0px) and (max-width:1199px) {
+
+}
+
+@media screen and (min-width:0px) and (max-width:991px)  {
+
+}
+@media screen and (min-width:0px) and (max-width:771px) {
+
+}
+
+@media screen and (min-width:0px) and (max-width:650px) {
+
+}
+
+@media screen and (min-width:0px) and (max-width:550px) {
+
+}
+
+@media screen and (min-width:0px) and (max-width:450px) {
+
+}
+
+@media screen and (min-width:0px) and (max-width:350px) {
+
+}
